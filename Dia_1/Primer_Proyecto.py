@@ -1,0 +1,6 @@
+#print("Hola Mundo \nUna vez mas")
+#print("\tVamos a ver")
+#print(input("Ingrese Nombre: "))
+#print("Tu nombre es " + input("Ingrese Nombre: "))
+#print("Tu nombre es " + (input("Ingrese Nombre: ")) + " " + (input("Ingrese Apellido: ")))
+print("El nombre de tu cerveza es \n \"" + (input("¿Nombre?: ")) + "\", \"" + (input("¿Color?: "))+"\"")
